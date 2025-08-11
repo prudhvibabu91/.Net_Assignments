@@ -1,0 +1,11 @@
+C:\Users\Dell\Downloads\Assignment11\Assignment12\bin\Debug\net8.0\Assignment12.deps.json
+C:\Users\Dell\Downloads\Assignment11\Assignment12\bin\Debug\net8.0\Assignment12.dll
+C:\Users\Dell\Downloads\Assignment11\Assignment12\bin\Debug\net8.0\Assignment12.pdb
+C:\Users\Dell\Downloads\Assignment11\Assignment12\obj\Debug\net8.0\Assignment12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Downloads\Assignment11\Assignment12\obj\Debug\net8.0\Assignment12.AssemblyInfoInputs.cache
+C:\Users\Dell\Downloads\Assignment11\Assignment12\obj\Debug\net8.0\Assignment12.AssemblyInfo.cs
+C:\Users\Dell\Downloads\Assignment11\Assignment12\obj\Debug\net8.0\Assignment12.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\Assignment11\Assignment12\obj\Debug\net8.0\Assignment12.dll
+C:\Users\Dell\Downloads\Assignment11\Assignment12\obj\Debug\net8.0\refint\Assignment12.dll
+C:\Users\Dell\Downloads\Assignment11\Assignment12\obj\Debug\net8.0\Assignment12.pdb
+C:\Users\Dell\Downloads\Assignment11\Assignment12\obj\Debug\net8.0\ref\Assignment12.dll
