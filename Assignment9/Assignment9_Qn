@@ -1,0 +1,15 @@
+Create a repo in GitLab > testproject
+
+Create a folder folder1 on your system
+
+Add 2 files > file1, file2 in that
+
+push it to testproject repo in GitLab
+
+Clone on your system only in some other path 
+
+Add 2 more files in folder1
+
+push them again to remote repo
+
+Download only changed content in the folder created after clone
